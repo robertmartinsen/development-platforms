@@ -38,7 +38,7 @@ The pricing structure, although cost-effective for many, might be a concern for 
 
 ## Comparison with MySQL & PostgreSQL
 
-In a comparison with traditional relational databases like MySQL or PostgreSQL, Amazon Aurora's performance and scalability stand out. Unlike traditional databases that might struggle under heavy loads, Aurora maintains its efficiency even as workloads increase. Aurora can have 15 replicas while MySQL have 5 smd the replication proccess is much faster.  This makes it an attractive option for applications that require consistent performance.
+In a comparison with traditional relational databases like MySQL or PostgreSQL, Amazon Aurora's performance and scalability stand out. Unlike traditional databases that might struggle under heavy loads, Aurora maintains its efficiency even as workloads increase. Aurora can have 15 replicas while MySQL have 5 and the replication proccess is much faster.  This makes it an attractive option for applications that require consistent performance.
 
 ## Who uses Amazon Aurora?
 
